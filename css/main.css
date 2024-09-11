@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #8ddffa;
+    background-color: #0085ca;
     font: normal 16px Roboto;
     color: #000000;
     display: flex;
@@ -20,7 +20,7 @@ main {
     max-width: 1000px;
     min-width: 335px;
     padding: 20px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 header {
@@ -30,9 +30,14 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 20px;
-    border: solid 1pt #8ddffa;
+    border: solid 1pt #0085ca;
     border-top-left-radius: 22px;
     border-top-right-radius: 22px;
+}
+
+div#marca > h1 {
+    color: #0085ca;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 section {
@@ -56,10 +61,16 @@ div.ata {
     text-align: center;
     border-radius: 25px;
     box-shadow: 1px 1px 1px ;
+    font-size: 1.5rem;
+    font-weight:600;
+    background-color:#06a6f7d7;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
 }
 
 footer {
-    background-color: #8ddffa;
+    background-color: #0085ca;
     margin-top: 25px;
     text-align: center;
+    color: #ffffff;
 }

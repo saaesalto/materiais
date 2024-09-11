@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+nav > ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    list-style-type: none;
+    padding: 10px;
+} 
+
+section > div {
+    width: 300px;
+    border: solid 1pt black;
+    padding: 5px;
+}
