@@ -9,6 +9,14 @@ nav > ul {
     flex-wrap: wrap;
 } 
 
+ul#menu > li> button {
+    width: 100px;
+    height: 32px;
+    background-color: #9bdbfcd7;
+    border: 0;
+    border-radius: 22px;
+}
+
 section > div {
     width: 300px;
     border: solid 1pt black;
