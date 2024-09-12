@@ -9,7 +9,7 @@ nav > ul {
     flex-wrap: wrap;
 } 
 
-ul#menu > li> button {
+ul#menu > li> a > button {
     width: 120px;
     height: 32px;
     background-color: #9bdbfcd7;
@@ -17,8 +17,8 @@ ul#menu > li> button {
     border-radius: 22px;
 }
 
-section > div {
-    width: 300px;
+section#conteudo > div {
+    width: 250px;
     border: solid 1pt black;
     padding: 5px;
 }
