@@ -68,6 +68,14 @@ div.ata {
     text-shadow: 1px 1px 1px black;
 }
 
+div.ata > a {
+    text-decoration: none;
+}
+
+div.ata > a:visited {
+    color: #ffffff;
+}
+
 footer {
     background-color: #0085ca;
     margin-top: 25px;
