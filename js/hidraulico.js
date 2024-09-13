@@ -408,7 +408,7 @@ function carregarLista() {
     for(let i = 0; i < hidraulico.length; i++){
         conteudo.innerHTML += `<div>
                                 <img src=${hidraulico[i].foto}>
-                                <p>Cod.: ${hidraulico[i].codigo}
+                                <p>Cod.: <strong>${hidraulico[i].codigo}</strong>
                                 <br>${hidraulico[i].nome}
                                 <br>${hidraulico[i].material}
                                 <br>Medida: ${hidraulico[i].dimensao}
