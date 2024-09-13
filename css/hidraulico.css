@@ -19,6 +19,8 @@ ul#menu > li> a > button {
 
 section#conteudo > div {
     width: 250px;
-    border: solid 1pt black;
-    padding: 5px;
+    border: solid 1pt #0085ca;
+    border-radius: 22px;
+    box-shadow: 1px 1px 1px #0085ca;
+    padding: 7px;
 }
