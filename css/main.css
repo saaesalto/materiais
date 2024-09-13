@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color: #80c6f5;
+    font: normal 16px Arial;
+}
+
+section {
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    border: solid 1pt black;
+    margin: auto;
+}
