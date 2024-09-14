@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+nav > ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    list-style-type: none;
+    padding: 10px;
+    flex-wrap: wrap;
+} 
+
+ul#menu > li> a > button {
+    width: 120px;
+    height: 32px;
+    background-color: #9bdbfcd7;
+    border: 0;
+    border-radius: 22px;
+}
+
+section#conteudo > div {
+    width: 250px;
+    border: solid 1pt #0085ca;
+    border-radius: 22px;
+    box-shadow: 1px 1px 1px #0085ca;
+    padding: 7px;
+}
