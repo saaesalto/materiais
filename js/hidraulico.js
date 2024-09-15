@@ -581,7 +581,7 @@ const hidraulico = [
     },
 
     {
-        foto: './img/luva-reducao.jpg',
+        foto: './img/niple-reducao-latao.jpg',
         codigo: '5401000964',
         busca: 'niple',
         nome: 'Niple de redução latão DN 1" X 3/4"',
