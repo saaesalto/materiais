@@ -41,6 +41,66 @@ const hidraulico = [
     },
 
     {
+        foto: './img/bucha-reducao-galvanizado-bsp.jpg',
+        codigo: '5401002467',
+        busca: 'bucha',
+        nome: 'Bucha de redução galvanizado BSP 1/2" X 1/4"',
+        material: 'Galvanizado',
+        dimensao: 'DN 1/2" X 1/4"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 2.83,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/bucha-reducao-galvanizado-bsp.jpg',
+        codigo: '5401003947',
+        busca: 'bucha',
+        nome: 'Bucha de redução galvanizado BSP 4" X 2"',
+        material: 'Galvanizado',
+        dimensao: 'DN 4" X 2"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 62.50,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/bucha-reducao-galvanizado-bsp.jpg',
+        codigo: '5401000803',
+        busca: 'bucha',
+        nome: 'Bucha de redução galvanizado BSP 4" X 3"',
+        material: 'Galvanizado',
+        dimensao: 'DN 4" X 3"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 61.50,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
         foto: './img/bucha-reducao-pvc.jpg',
         codigo: '5401002472',
         busca: 'bucha',
@@ -57,6 +117,26 @@ const hidraulico = [
         cidade: 'Curitiba - PR',
         prazo: '30 dias',
         vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/cap-galvanizado.jpg',
+        codigo: '5401000427',
+        busca: 'cap',
+        nome: 'Cap galvanizado 3"',
+        material: 'Galvanizado',
+        dimensao: 'DN 3"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 35.85,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
         gestor: 'Diretor Operacional'
     },
 
@@ -401,6 +481,46 @@ const hidraulico = [
     },
 
     {
+        foto: './img/luva-reducao.jpg',
+        codigo: '5401003956',
+        busca: 'luva',
+        nome: 'Luva de redução galvanizada BSP DN 4" X 2"',
+        material: 'Galvanizado',
+        dimensao: 'DN 4" X 2"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 79.00,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/luva-reducao.jpg',
+        codigo: '5401003957',
+        busca: 'luva',
+        nome: 'Luva de redução galvanizada BSP DN 4" X 3"',
+        material: 'Galvanizado',
+        dimensao: 'DN 4" X 3"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 83.85,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
         foto: './img/luva-latao.jpg',
         codigo: '5401000792',
         busca: 'luva',
@@ -457,6 +577,26 @@ const hidraulico = [
         cidade: 'Curitiba - PR',
         prazo: '30 dias',
         vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/luva-reducao.jpg',
+        codigo: '5401000964',
+        busca: 'niple',
+        nome: 'Niple de redução latão DN 1" X 3/4"',
+        material: 'Galvanizado',
+        dimensao: 'DN 1" X 3/4"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Tupy',
+        unidade: 'unidade',
+        valor: 9.50,
+        cor: ' ',
+        fornecedor: 'Forthy',
+        cidade: 'Porto Feliz - SP',
+        prazo: '30 dias',
+        vigencia: '29/11/2024',
         gestor: 'Diretor Operacional'
     },
 
