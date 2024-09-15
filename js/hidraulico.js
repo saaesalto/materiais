@@ -441,6 +441,26 @@ const hidraulico = [
     },
 
     {
+        foto: './img/luva-uniao-pvc-branco.jpg',
+        codigo: '5401002516',
+        busca: 'luva',
+        nome: 'Luva união roscável PVC branco 2"',
+        material: 'PVC',
+        dimensao: 'DN 2"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Plastilit',
+        unidade: 'unidade',
+        valor: 39.60,
+        cor: 'branco',
+        fornecedor: 'N. S. A. Comércio',
+        cidade: 'Curitiba - PR',
+        prazo: '30 dias',
+        vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
         foto: './img/niple-latao.jpg',
         codigo: '5401000613',
         busca: 'niple',
@@ -481,6 +501,46 @@ const hidraulico = [
     },
 
     {
+        foto: './img/niple-pvc.jpeg',
+        codigo: '5401000758',
+        busca: 'niple',
+        nome: 'Niple PVC 1/2"',
+        material: 'PVC',
+        dimensao: 'DN 1/2"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Plastilit',
+        unidade: 'peça',
+        valor: 0.30,
+        cor: 'branco',
+        fornecedor: 'N. S. A. Comércio',
+        cidade: 'Curitiba - PR',
+        prazo: '30 dias',
+        vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/niple-pvc.jpeg',
+        codigo: '54010007589',
+        busca: 'niple',
+        nome: 'Niple PVC 3/4"',
+        material: 'PVC',
+        dimensao: 'DN 3/4"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Plastilit',
+        unidade: 'peça',
+        valor: 0.80,
+        cor: 'branco',
+        fornecedor: 'N. S. A. Comércio',
+        cidade: 'Curitiba - PR',
+        prazo: '30 dias',
+        vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
         foto: './img/obstrutor-cavalete.jpeg',
         codigo: '5401001127',
         busca: 'obstrutor',
@@ -495,6 +555,26 @@ const hidraulico = [
         cor: '',
         fornecedor: 'Youcare',
         cidade: 'Barueri - SP',
+        prazo: '30 dias',
+        vigencia: '24/05/2025',
+        gestor: 'Diretor Operacional'
+    },
+
+    {
+        foto: './img/plug-pvc-branco-rosca.jpeg',
+        codigo: '5401001128',
+        busca: 'plug',
+        nome: 'Plug PVC branco rosca 3/4"',
+        material: 'PVC',
+        dimensao: 'DN 3/4"',
+        classe: ' ',
+        norma: ' ',
+        marca: 'Plastilit',
+        unidade: 'peça',
+        valor: 0.70,
+        cor: 'branco',
+        fornecedor: 'N. S. A. Comércio',
+        cidade: 'Curitiba - PR',
         prazo: '30 dias',
         vigencia: '24/05/2025',
         gestor: 'Diretor Operacional'
