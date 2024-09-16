@@ -1923,7 +1923,7 @@ const hidraulico = [
 
     {
         foto: './img/tubo-pead-azul.jpg',
-        codigo: '5401001145',
+        codigo: '5401001175',
         busca: 'tubo',
         nome: 'Tubo PEAD PE 80 PN 16 DE 20 mm',
         material: 'PEAD',
